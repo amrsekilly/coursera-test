@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Opificio';
-  src: url('opificio.eot');
-  src: url('opificio.eot?#iefix') format('embedded-opentype'),
-       url('opificio.woff') format('woff'),
-       url('opificio.ttf') format('truetype'),
-       url('opificio.svg#Opificio') format('svg');
+  src: url('./../fonts/opificio.eot');
+  src: url('./../fonts/opificio.eot?#iefix') format('embedded-opentype'),
+       url('./../fonts/opificio.woff') format('woff'),
+       url('./../fonts/opificio.ttf') format('truetype'),
+       url('./../fonts/opificio.svg#Opificio') format('svg');
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 
 /**@media (min-width: 1200px)
 .container {
-max-width: none; 
+max-width: none;
 }**/
 
 
@@ -39,7 +39,7 @@ max-width: none;
 }
 /** FOOTER **/
 
-.footer{ 
+.footer{
   background-color: #34495e;
   color: white;
   padding-top: 25px;
@@ -79,7 +79,7 @@ max-width: none;
   background-color: #4fc1e9;
 }
 .card-basic-body{
-  background-color: #d7f1fa; 
+  background-color: #d7f1fa;
 }
 
 .card-unlimited{
@@ -87,7 +87,7 @@ background-color: #ffce54;
 }
 
 .card-unlimited-body{
-  background-color: #fffaed; 
+  background-color: #fffaed;
 }
 
 .card-btn{
@@ -114,7 +114,7 @@ background-color: #ffce54;
 .contact-xs{
   background-color: #8cc152;
   color: white ;
- 
-  
- 
+
+
+
 }
